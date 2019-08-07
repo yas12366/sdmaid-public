@@ -1,4 +1,4 @@
-########## v0.9.8.7(57) #########
+8########## v0.9.8.7(57) #########
 @Common
 - Added portuguese(brazil)
 - Added SGS3 external_sd path
